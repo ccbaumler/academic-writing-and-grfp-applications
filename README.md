@@ -1,5 +1,4 @@
-# Thoughts on Academic Writing
-**(An Emphasis on the GRFP)**
+# Thoughts on Academic Writing (An Emphasis on the GRFP)
 
 
 A quarto presentation on academic writing
