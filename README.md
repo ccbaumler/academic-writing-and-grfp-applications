@@ -5,7 +5,7 @@
 A quarto presentation on academic writing
 
 
-[![DOI](https://zenodo.org/badge/771740345.svg)]()
+[![DOI](https://zenodo.org/badge/848790759.svg)](https://zenodo.org/doi/10.5281/zenodo.13384318)
 
 
 ## Highlights that you probably care about
